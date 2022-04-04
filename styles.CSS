@@ -137,10 +137,10 @@ button:active {
   height: 20vw;
   max-height: 400px;
   position: relative;
-  text-align: right;
+  
   display: block;
-  margin-left: 950px;
-  margin-right: 200px;
+  margin-left: 800px;
+  margin-right: 100px;
 
   padding: 170px;
 }
